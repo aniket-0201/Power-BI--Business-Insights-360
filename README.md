@@ -6,7 +6,7 @@ This Power BI dashboard is designed to deliver a comprehensive analysis of key p
 
 ## Live Dashboard
 
-Explore the live dashboard [here] https://app.powerbi.com/view?r=eyJrIjoiOGYyNzQ1NzQtZGNiMS00M2I0LWIwZjgtNWViY2U2ODhmYTQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=d5f6a00868838022030b .
+Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiOGYyNzQ1NzQtZGNiMS00M2I0LWIwZjgtNWViY2U2ODhmYTQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=d5f6a00868838022030b).
 
 ## Features
 
